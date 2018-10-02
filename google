@@ -1,3 +1,4 @@
+# This host file blocks Google based services
 0.0.0.0 ads.doubleclick.net
 0.0.0.0 s.ytimg.com
 0.0.0.0 ad.youtube.com
